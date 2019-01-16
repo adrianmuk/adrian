@@ -1,0 +1,52 @@
+body {
+    background-image: url(../adrian/br\ 5.jpg);
+    padding: 20px;
+    background-color: black;
+    background-position: center 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    
+}
+#bird{
+    background-color: aliceblue;
+    font: oblique;
+    font-size: 50px;
+    text-align: center;
+    background-image: url(../adrian/br\ 1.jpg);
+    color: green;
+    margin: 0;
+}
+.box {
+    border: blue;
+    float:left;
+    background-color:black;
+    display: inline-block;
+    height: 50%;
+    margin: 0;
+}
+.section {
+    border: black;
+    margin: 0;
+    transform: translateX(100px) translateY(100px);
+}
+a {
+    border-color: red;
+
+}
+#home{
+    size: 25%
+}
+#about{
+    size: 25%
+}
+#services{
+    size: 25%
+}
+#contact-us{
+    size: 25%
+}
+h2 {
+    background-color: blueviolet;
+    margin: 0;
+}

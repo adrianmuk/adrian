@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+#header{
+    padding: 20px;
+    background-image: url("E:/teencode-website/images/image1.jpg");
+    background-position: center 0;
+    height: 500px;
+}
+#logo{
+    width: 100px;
+}
+.nav{
+    float: right;
+}
+a{
+    color: white;
+}
+p{
+    font-style: inherit;
+    color:blue;
+    margin: 0;
+}
+.para{
+    background-color: black;
+}
