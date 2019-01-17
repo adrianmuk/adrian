@@ -1,0 +1,20 @@
+body{
+    background-color: gray
+}
+div{
+    align-content: center;
+    padding-left: 50px;
+    
+    
+}
+p {
+    color:gray;
+    font-size: 100%;
+}
+#male {
+border: 1px solid;
+border-top: ridge
+}
+.fire {
+    border: 1px solid;
+}

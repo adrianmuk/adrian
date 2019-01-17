@@ -14,12 +14,18 @@ button {
     height: 50px;
     margin-left: 55px;
     color: white;
+    border: none;
 }
 .mime button > a {
     color: white;
 }
-#me {
-    shape-outside: circle;
-    radius: 2cm;
-    
+p {
+    font-style: unset;
+    font-size: 35px
+}
+.img-circle{
+    border-radius: 5%
+}
+a {
+    text-decoration: none;
 }
