@@ -1,5 +1,5 @@
 body {
-    background-image: url(../adrian/br\ 5.jpg);
+    background-image: url(../adrian/prism.png);
     padding: 20px;
     background-color: black;
     background-position: center 0;
@@ -25,21 +25,44 @@ body {
     float:left;
     background-color:black;
     display: inline-block;
-    height: 50%;
-    margin: 0;
-     
+    height: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    width:300px;
+    position: fixed;
+    background-image: url(../adrian/prism.png);
+    color: white !important;
+}
+
+.box button > a {
+    color: white;
 }
 .section {
     border: black;
     margin: 0;
     transform: translateX(100px) translateY(100px);
+    margin-left: 250px;
+}
+button {
+    float:left;
+    width: 100%;
+    padding: 15px;
+    cursor: auto;
+    border: none;
+    border: 1px solid aqua;
+    background-color: lime;
+    background-image: url(../adrian/prism.png);
+}
+button:hover{
+    background-color: rgb(9, 54, 9)250, 184);
 }
 a {
     border-color: red;
-
+    text-decoration: none;
 }
 #home{
-    size: 25%
+    size: 25%;
+    margin-top: -90px;
 }
 #about{
     size: 25%
@@ -57,4 +80,18 @@ h2 {
 #ad {
     font-size: 50px;
     color: aqua;
+}
+#bird {
+    margin-left: 300px;
+}
+p {
+    height:300px;
+    font-size: 29px;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 35px;
+    color:black;
 }
